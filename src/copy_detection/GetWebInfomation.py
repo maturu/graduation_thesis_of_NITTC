@@ -61,8 +61,8 @@ class GetWebInfomation(object):
             for p in range(1, self.k+1):
                 # Google API settings
                 QUERY = self.theme+" "+q
-                API_KEY = 'AIzaSyAjComOta6ke4BWWBLE49u34mdo_Tx0Jwo'
-                CUSTOM_SEARCH_ID = '017928256044772830552:ot_23aweaoy'
+                API_KEY = 'YOUR_APIKEY'
+                CUSTOM_SEARCH_ID = 'YOUR_CUSTOM_SEARCH_ID'
                 request_url = 'https://www.googleapis.com/customsearch/v1?'
                 params = {
                         'key': API_KEY,
