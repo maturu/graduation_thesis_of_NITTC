@@ -1,0 +1,15 @@
+.DS_Store
+/thesis/
+/etc/
+/ref/
+
+/src/copy_detection/data/
+/src/copy_detection/test/
+/src/copy_detection/results/
+/src/copy_detection/result.json
+/src/copy_detection/save.json
+
+/src/gui/data/
+/src/gui/node_modules/
+/src/gui/save.json
+/src/gui/plagiarism_info.json
