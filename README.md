@@ -1,6 +1,6 @@
 <p>
   <a href="https://www.ipsj.or.jp/"><img src="https://img.shields.io/badge/Soiety-IPSJ-blue.svg"></a>
-  <a href="https://www.ipsj.or.jp/"><img src="https://img.shields.io/badge/Code-Python3.6-yellow.svg"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Code-Python3.6-yellow.svg"></a>
   <a href="https://github.com/maturu/graduation_thesis_of_NITTC/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
   <a href="https://github.com/maturu/graduation_thesis_of_NITTC/issues"><img src="https://img.shields.io/badge/Issues-error-red.svg"></a>
 </p>
