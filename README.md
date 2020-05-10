@@ -5,7 +5,7 @@
   <a href="https://github.com/maturu/graduation_thesis_of_NITTC/issues"><img src="https://img.shields.io/badge/Issues-error-red.svg"></a>
 </p>
 
-![Paper submitted to The 81st National Convention of IPSJ](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=197335&item_no=1&page_id=13&block_id=8)
+[Paper submitted to The 81st National Convention of IPSJ](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=197335&item_no=1&page_id=13&block_id=8)
 
 # Graduation thesis of NITTC: Automatic Detection System of Plagiarized Reports Based on Retrieval of Website
 ## Introduction
